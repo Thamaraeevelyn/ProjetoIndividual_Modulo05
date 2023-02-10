@@ -7,7 +7,7 @@ O código deve rodar em um laço que vai receber propriedades até a digitarmos 
 
 ### Seguem os prints do processo realizado para a realização do projeto:
 ##Primeiro Passo
-![Imagem](.)![primeiropasso](https://user-images.githubusercontent.com/112868695/218119903-d9f950f1-c28c-439f-822d-d82b83b30943.png)
+(.)![primeiropasso](https://user-images.githubusercontent.com/112868695/218119903-d9f950f1-c28c-439f-822d-d82b83b30943.png)
 
 
 
