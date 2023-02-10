@@ -19,4 +19,5 @@ O código deve rodar em um laço que vai receber propriedades até a digitarmos 
 ##Quarto Passo
 ![quarto_passo](https://user-images.githubusercontent.com/112868695/218120606-b072df06-9210-4005-a2b1-6a620ae6f4f2.png)
 
+**Para o desenvolvimento da atividade, foi necessário a instalação dos módulos : express, chalk e nodemon
 
